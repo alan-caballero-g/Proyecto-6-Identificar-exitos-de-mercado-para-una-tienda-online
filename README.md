@@ -1,0 +1,2 @@
+# Proyecto-6-Identificar-exitos-de-mercado-para-una-tienda-online
+Una tienda en línea necesita identificar posibles ganadores para planificar campañas publicitarias previo al lanzamiento. En este proyecto, identifiqué patrones que determinan si un juego tiene éxito o no en función de las reseñas de usuarios y usuarias y profesionales, los géneros, las plataformas y los datos históricos de ventas de juegos. 
